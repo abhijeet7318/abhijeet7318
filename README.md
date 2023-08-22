@@ -1,9 +1,8 @@
 ### Hi there 👋 My name is Abhijeet Singh Kushwaha and I'm a Full Stack Developer :P
 <br />
-
-![image](https://github.com/abhijeet7318/abhijeet7318/assets/86682965/a4496ea3-2078-4fa4-a3a9-6d20c9fb8916)
-
-
+<p align="center">
+<img width="20%" src="https://png.pngtree.com/png-vector/20191027/ourmid/pngtree-programmer-woman-vector-programmer-workspace-working-on-internet-using-laptop-cartoon-png-image_1887006.jpg"/>
+</p>
 
 
                                                                                                       

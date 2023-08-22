@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-<img width="20%" src="[https://png.pngtree.com/png-vector/20191027/ourmid/pngtree-programmer-woman-vector-programmer-workspace-working-on-internet-using-laptop-cartoon-png-image_1887006.jpg](https://th.bing.com/th/id/OIP.11mGmdOy0qOphPpdROQABwAAAA?pid=ImgDet&rs=1)"/>
+<img width="20%" src="[https://th.bing.com/th/id/OIP.uU-NOFOQDNnd183qeZKmcAHaGp?pid=ImgDet&rs=1](https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg)"/>
 </p>
 
 
@@ -25,14 +25,14 @@
 **Contact Me :)**
 
 <br />
-<a href="https://www.linkedin.com/in/keerti-lata-946159210/">
+<a href="https://www.linkedin.com/in/abhijeet-kushwaha-36565a209/">
   <img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.facebook.com/keerti.lata.90/">
+<a href="[https://www.facebook.com/keerti.lata.90/](https://www.facebook.com/abhijeet.kushwaha.9081)">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="mailto:keertilata20@gmail.com? subject="">
+<a href="mailto:abhijeetkushwaha208001@gmail.com? subject="">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
 

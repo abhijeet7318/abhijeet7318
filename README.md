@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Abhijeet Singh Kushwaha and I'm a Full Stack Developer :P
 <br />
 <p align="center">
-<img width="20%" src="https://png.pngtree.com/png-vector/20191027/ourmid/pngtree-programmer-woman-vector-programmer-workspace-working-on-internet-using-laptop-cartoon-png-image_1887006.jpg"/>
+<img width="20%" src="https://clipground.com/images/coder-clipart-1.jpg"/>
 </p>
 
 
@@ -15,7 +15,7 @@
 - 🌱 I like **Competitive Coding** and **Web developement**.
 - 👯 I have a good mental aptitude and problem-solving skills.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love mangoes xD :)
 - 💬 You can contact me on any of these platforms :)
 
 <br />

@@ -11,7 +11,7 @@
                                                                                                        
 **About Me :)**
 
-- 🔭 I’m currently a 3rd year student of **IIT Guwahati**. 
+- 🔭 I’m currently a 4th year student of **IIT Guwahati**. 
 - 🌱 I like **Competitive Coding** and **Web developement**.
 - 👯 I have a good mental aptitude and problem-solving skills.
 - 😄 Pronouns: he/him
